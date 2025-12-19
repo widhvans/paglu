@@ -1,0 +1,40 @@
+# Flutter/Dart
+*.dart.js
+*.js_
+*.js.map
+*.info.json
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Android
+*.apk
+*.aab
+.gradle/
+local.properties
+*.jks
+*.keystore
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Misc
+.DS_Store
+*.log
